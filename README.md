@@ -22,3 +22,7 @@ Whether you're a student working on a digital logic course or a hobbyist experim
 ---
 
 Feel free to fork the repository, run the simulation, and explore how this ALU can be extended with more operations or connected to a larger datapath system.
+
+OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b9d71bc7-3563-4008-86fd-f658ffdd610e" />
